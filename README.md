@@ -17,4 +17,7 @@ https://aclanthology.org/2021.acl-short.25.pdf
 ### Adaptive Knowledge-Enhanced Bayesian Meta-Learning for Few-shot Event Detection
 https://aclanthology.org/2021.findings-acl.214.pdf
 
+### A Compositional Bayesian Semantics for Natural Language
+https://aclanthology.org/W18-4101.pdf
+
 ## Read
