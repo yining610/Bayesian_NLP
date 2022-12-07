@@ -5,9 +5,6 @@ Exploring Bayesian techniques in NLP
 
 ## Unread
 
-### An Overview of Nonparametric Bayesian Models and Applications to Natural Language Processing [2008]
-http://www.cs.cmu.edu/~zollmann/publications/nonparametric.pdf
-
 ### TopWORDS-Seg: Simultaneous Text Segmentation and Word Discovery for Open-Domain Chinese Texts via Bayesian Inference
 https://aclanthology.org/2022.acl-long.13.pdf
 
@@ -21,3 +18,6 @@ https://aclanthology.org/2021.findings-acl.214.pdf
 https://aclanthology.org/W18-4101.pdf
 
 ## Read
+
+### An Overview of Nonparametric Bayesian Models and Applications to Natural Language Processing [2008]
+http://www.cs.cmu.edu/~zollmann/publications/nonparametric.pdf
