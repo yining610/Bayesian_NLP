@@ -24,3 +24,6 @@ http://www.cs.cmu.edu/~zollmann/publications/nonparametric.pdf
 
 ### Surveying a suite of algorithms that offer a solution to managing large document archives
 http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf
+
+### Hierarchical Dirichlet Processes
+https://people.eecs.berkeley.edu/~jordan/papers/hdp.pdf
