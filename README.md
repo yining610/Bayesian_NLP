@@ -21,3 +21,6 @@ https://aclanthology.org/W18-4101.pdf
 
 ### An Overview of Nonparametric Bayesian Models and Applications to Natural Language Processing [2008]
 http://www.cs.cmu.edu/~zollmann/publications/nonparametric.pdf
+
+### Surveying a suite of algorithms that offer a solution to managing large document archives
+http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf
