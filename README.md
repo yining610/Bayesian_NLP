@@ -1,5 +1,5 @@
-# Bayesian_NLP
-Exploring Bayesian techniques in NLP
+# Nonparametric Bayesian NLP
+
 
 # Papers:
 
